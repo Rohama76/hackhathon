@@ -40,24 +40,7 @@ padding: 0%;
     0.6s
     ease;
 }
-	body {
-  font-family: 'Poppins', sans-serif;
-  color: black;
-  background-color: #ccccd2;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-
-  margin: 0px auto;
-}
-
-
-.main-container {
-  display: flex;
-@@ -844,4 +835,4 @@ body {
-  .search-container{
-    width: 50%;
-  }
+	
 .wrapper.active
   .form.login {
   bottom: -15%;
